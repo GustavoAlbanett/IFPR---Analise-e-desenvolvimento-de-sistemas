@@ -2,59 +2,50 @@
 
 ## Conteúdos Trabalhados
 
-### Visão Geral
-Durante o trimestre, trabalhamos diversos conteúdos relacionados à **extração de requisitos** e como trabalhar em equipe em um projeto de software buscando entregar valor. 
-
-Passamos a entender:
-* A importância do planejamento;
-* O que uma empresa busca em um profissional;
-* Os diferentes processos e ciclos de vida de um projeto;
-* A importância de um ecossistema de trabalho adequado e profissional.
-
-Por último, trabalhamos na prática a realização de entrevistas e a extração de **histórias de usuários** para a criação de protótipos de software.
+### Geral
+Durante o trimestre trabalhamos diversos conteúdos relacionados à extração de requisitos e como trabalhar em equipe em um projeto de software buscando entregar valor. Passamos a entender a importância do planejamento, o que uma empresa busca em um profissional, os diferentes processos que um projeto tem e como funcionam os diversos ciclos de vida que este projeto pode ter. O trabalho em equipe é essencial para se entregar valor, é importante que o ecossistema de trabalho seja adequado e profissional. Por último, foi trabalhado na prática como realizar uma entrevista e extrair as histórias dos usuários para fazer o protótipo de um software.
 
 ---
 
-### Conteúdos Específicos
+### Específicos
 
-* **Validação vs. Verificação:** Diferenças fundamentais entre os dois conceitos.
-* **Perfil Profissional:** O equilíbrio entre *Soft Skills* e habilidades técnicas.
-* **Ecossistema de Equipe:** Como se estrutura uma equipe de software.
-* **Planejamento e Execução:** A importância da validação e da execução guiada.
-* **Processos de Criação:** Etapas para o desenvolvimento de um software.
-* **Ciclos de Vida e Métodos de Desenvolvimento:**
+* Diferenças entre validação e verificação
+* O que uma empresa busca em um profissional ( Soft skills x Habilidades técnicas)
+* Ecossistema de uma equipe de software
+* Como fazer um planejamento de software e a importância da validação(execução guiada)
+* Processos para criação de um software
+* Diferentes ciclos de vida e métodos de desenvolvimento de um projeto software como:
     * Cascata
     * Prototipagem
     * Espiral
     * Iterativo Incremental
-* **Frameworks e Agilidade:** Definição de framework e o Manifesto Ágil.
-* **Técnicas para Levantamento de Requisitos:**
-    * Entrevista e Questionário
-    * Observação e Análise de documentos
-    * Brainstorm e JAD (Joint Application Design)
-    * Prototipagem e Estudo etnográfico
+* O que é um framework
+* Manifesto ágil
+* Técnicas para levantamento de requisitos:
+    * Entrevista
+    * Questionário
+    * Observação
+    * Análise de documentos
+    * Brainstorm
+    * JAD (Joint Application Design)
+    * Prototipagem
+    * Estudo etnográfico
 * **Prática de Requisitos:**
-    * Como montar um questionário eficiente.
-    * Organização para entrevistas.
-    * Definição e extração de **Histórias de Usuários**.
+    * Como montar um questionário eficiente e se organizar para entrevistas.
+    * O que são as histórias de usuários e como extrair elas a partir das entrevistas 
 
 ---
 
-## Reflexões e Feedback
-
 ### Principais Dificuldades
-> **Quais foram as maiores dificuldades ao longo do trimestre?**
 >
-> Sem sombra de dúvidas, a maior dificuldade foram as **entrevistas**. A elaboração de um bom questionário não é fácil; as respostas obtidas muitas vezes eram vagas ou confusas, exigindo muita revisão e planejamento. Além disso, os processos de verificação e validação foram complicados devido à alta demanda pelo professor e à necessidade de gerir o tempo com eficiência.
+### Quais foram as maiores dificuldades ao longo do trimestre?
+>
+>Sem sombra de dúvidas a maior dificuldade foram as entrevistas, a elaboração de um bom questionário não é uma atividade fácil, as respostas obtidas muitas vezes eram vagas ou confusas, necessitando muita revisão e planejamento para conseguir entregar valor, uma vez que as entrevistas eram limitadas. Além disso, às vezes a verificação e validação podiam ser um pouco complicadas, já que o professor era muito requisitado atendendo outras equipes e muitas vezes precisamos correr contra o tempo. 
 
-### Aprendizados Inesperados
-> **O que aprendeu que não esperava aprender?**
+### O que aprendeu que não esperava aprender?
 >
-> A natureza prática da matéria. Esperava algo mais teórico, mas a inserção em um contexto real de desenvolvimento e a existência de atividades práticas em todas as aulas foram surpresas positivas.
+>Eu não esperava que essa matéria seria tão prática. Na minha visão seria algo mais teórico, mas a forma em que fomos inseridos em um contexto de desenvolvimento de software e toda aula ter algo prático a ser feito me surpreendeu.
 
-### Plano de Melhoria
-> **O que faria diferente se fosse recomeçar?**
+### O que faria diferente se fosse recomeçar?
 >
-> 1.  **Foco no Planejamento Coletivo:** Evitaria o trabalho puramente individual (cada um faz sua parte), focando em construir valor como equipe.
-> 2.  **Validação Contínua:** Realizaria verificações com o professor desde o início do processo.
-> 3.  **Proatividade:** Buscaria adiantar as atividades em vez de realizá-las apenas durante o tempo de aula.
+>Com certeza eu focaria mais no planejamento das atividades em equipe, no início focamos apenas em entregar a atividade, cada um fazendo sua parte individualmente, mas entendemos que o valor próprio realmente é construído quando a equipe trabalha em conjunto e cada um entende o que o outro fez. Além disso, faria desde o início mais verificações e validações com o professor, isso sem sombra de dúvidas é um grande pilar para conseguir entregar algo bem feito. Também buscaria me adiantar mais nas atividades ao invés de deixar para fazer somente naquela aula.
